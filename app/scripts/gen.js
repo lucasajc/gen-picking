@@ -110,7 +110,7 @@ var algoritmoGenetico =
 				if(randMutation == 1)//se for 1, mutação :)
 				{
 					newCromon.number = Math.floor((Math.random() * maxInterval) + 1)
-					console.log("ARRRRRRRRRRRRRRYHHHHHHHHHGGGGGGGGGGGGGG MUTAÇÃO!!!  Sentinelas:[ON] auhsdhuasd");
+					console.log("Mutação");
 				}
 				else 
 				{
